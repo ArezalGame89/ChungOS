@@ -1,3 +1,5 @@
+# E
+[so yeah new version out](https://github.com/Special-Rocket-Agents/ChungOSX)
 # ChungOS
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Special-Rocket-Agents/ChungOS/master/LICENSE)
